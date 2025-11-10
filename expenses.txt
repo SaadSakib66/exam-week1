@@ -1,0 +1,8 @@
+Category | Expense (Tk)
+--------------------
+Food | 2500
+Transport | 800
+Rent | 12000
+Utilities | 1500
+Entertainment | 700
+Healthcare | 1200
